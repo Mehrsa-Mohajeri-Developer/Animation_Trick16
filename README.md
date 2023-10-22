@@ -10,7 +10,7 @@ https://github.com/Mehrsa-Mohajeri-Developer/Animation_Trick16/assets/145048780/
 
 - 📆 Created: 2023-10-7
 
-- ✔️ Technologies Used: HTML, CSS, SASS
+- ✔️ Technologies Used: HTML, CSS, SASS, Animation-CSS
 
 - 💥 Role: Front-End
 
